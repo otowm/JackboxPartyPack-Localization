@@ -5,19 +5,19 @@
             "decoys": [
                 {
                     "text": "Ela tem um ótimo senso de humor.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -33,19 +33,19 @@
             "decoys": [
                 {
                     "text": "Ele é um homem estóico que nos trata com justiça.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -61,19 +61,19 @@
             "decoys": [
                 {
                     "text": "Ela tinha cabelos cacheados e uma bela voz.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -89,19 +89,19 @@
             "decoys": [
                 {
                     "text": "Ele é um pouco tirano no trabalho.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -117,19 +117,19 @@
             "decoys": [
                 {
                     "text": "Ele é muito divertido e tem uma ótima risada!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -145,19 +145,19 @@
             "decoys": [
                 {
                     "text": "Ela é uma mulher carinhosa que sempre esteve lá para mim.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -173,19 +173,19 @@
             "decoys": [
                 {
                     "text": "Ele é um homem honesto e trabalhador.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -201,19 +201,19 @@
             "decoys": [
                 {
                     "text": "Ela era bonita, legal e engraçada.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -229,19 +229,19 @@
             "decoys": [
                 {
                     "text": "Ele era alto e careca.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -257,19 +257,19 @@
             "decoys": [
                 {
                     "text": "Ela é uma velha adorável.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -285,19 +285,19 @@
             "decoys": [
                 {
                     "text": "Grande ouvinte, paciente e decidido.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -313,19 +313,19 @@
             "decoys": [
                 {
                     "text": "Ele traz alegria a milhões de pessoas!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -341,19 +341,19 @@
             "decoys": [
                 {
                     "text": "Bem educado e decidido",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -369,19 +369,19 @@
             "decoys": [
                 {
                     "text": "Mãos seguras e um toque suave",
-                    "type": "Positivo"
+                    "type": "Positive"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -397,19 +397,19 @@
             "decoys": [
                 {
                     "text": "Responsável e sempre pontual",
-                    "type": "Positivo"
+                    "type": "Positive"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -425,19 +425,19 @@
             "decoys": [
                 {
                     "text": "Ela era tão doce e realmente ouvia",
-                    "type": "Positivo"
+                    "type": "Positive"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -453,19 +453,19 @@
             "decoys": [
                 {
                     "text": "Ela cheirava a lavanda",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -481,19 +481,19 @@
             "decoys": [
                 {
                     "text": "Alguém que é honesto e me olha nos olhos.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -509,19 +509,19 @@
             "decoys": [
                 {
                     "text": "Muito falador e peculiar",
-                    "type": "Positivo"
+                    "type": "Positive"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -537,19 +537,19 @@
             "decoys": [
                 {
                     "text": "Uma personalidade taciturna e boa aparência ardente",
-                    "type": "Positivo"
+                    "type": "Positive"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -565,19 +565,19 @@
             "decoys": [
                 {
                     "text": "Ele realmente adora crianças.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -593,19 +593,19 @@
             "decoys": [
                 {
                     "text": "Ele tem óculos e é um mago.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -621,19 +621,19 @@
             "decoys": [
                 {
                     "text": "Ele é bonito, inteligente e um assassino.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -649,19 +649,19 @@
             "decoys": [
                 {
                     "text": "Ele é um homem inteligente que ensina mutantes.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -677,19 +677,19 @@
             "decoys": [
                 {
                     "text": "Ele é um porco grande e gagueja.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -705,19 +705,19 @@
             "decoys": [
                 {
                     "text": "Ela é uma ótima cantora.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -733,19 +733,19 @@
             "decoys": [
                 {
                     "text": "Ela é super forte e tem uma corda.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -761,19 +761,19 @@
             "decoys": [
                 {
                     "text": "Alguém inteligente e com boas mãos.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -788,20 +788,20 @@
         {
             "decoys": [
                 {
-                    "text": "Ele tinha muitos dispositivos legais.",
-                    "type": "Negativo"
+                    "text": "Ele tinha muitos disPositives legais.",
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -817,19 +817,19 @@
             "decoys": [
                 {
                     "text": "Alguém que é justo e corajoso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -845,19 +845,19 @@
             "decoys": [
                 {
                     "text": "Ele luta contra os nazistas.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -873,19 +873,19 @@
             "decoys": [
                 {
                     "text": "Ele ajudou os pobres.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -901,19 +901,19 @@
             "decoys": [
                 {
                     "text": "Ela é muito inteligente e uma grande escritora.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -929,19 +929,19 @@
             "decoys": [
                 {
                     "text": "Ela ajudou os pobres.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -957,19 +957,19 @@
             "decoys": [
                 {
                     "text": "Ela realmente me faz rir.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -985,19 +985,19 @@
             "decoys": [
                 {
                     "text": "Alguém que é forte, rápido e corajoso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1013,19 +1013,19 @@
             "decoys": [
                 {
                     "text": "quieto, tímido, esperto",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1041,19 +1041,19 @@
             "decoys": [
                 {
                     "text": "extrovertido, amigável, divertido",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {

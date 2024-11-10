@@ -3,7 +3,7 @@
         {
             "id": "00000000",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "responseText": "Vamos caçá-lo.",
             "twistText": "Homem local ganha na loteria"
@@ -11,7 +11,7 @@
         {
             "id": "00000001",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "responseText": "Não é tão impressionante tbh.",
             "twistText": "Johnny aprende a andar de bicicleta!"
@@ -19,7 +19,7 @@
         {
             "id": "00000002",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "responseText": "Não é a coisa mais confortável para sentar.",
             "twistText": "Colher de Pau de 18 polegadas"
@@ -35,7 +35,7 @@
         {
             "id": "00000004",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "responseText": "Isso me acorda todas as manhãs.",
             "twistText": "MyFarts"
@@ -43,7 +43,7 @@
         {
             "id": "00000005",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "responseText": "Algumas coisas devem ser mantidas no escuro.",
             "twistText": "Ajude-me a financiar meu filme"
@@ -51,7 +51,7 @@
         {
             "id": "00000006",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "responseText": "Tudo é delicioso aqui.",
             "twistText": "Fábrica Química"
@@ -59,7 +59,7 @@
         {
             "id": "00000007",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "responseText": "Ele está sempre lá para mim.",
             "twistText": "Satanás"
@@ -67,7 +67,7 @@
         {
             "id": "00000008",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "responseText": "Eles me enojam.",
             "twistText": "Como você se sente em relação aos abraços?"
@@ -75,7 +75,7 @@
         {
             "id": "00000009",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Peguei esse cachorro estranho."
@@ -83,7 +83,7 @@
         {
             "id": "00000010",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "responseText": "É meu presente favorito para dar.",
             "twistText": "Piolhos"
@@ -91,7 +91,7 @@
         {
             "id": "00000011",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "responseText": "É de tirar o fôlego!",
             "twistText": "Asfixia"
@@ -115,7 +115,7 @@
         {
             "id": "00000014",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "responseText": "Muita nudez.",
             "twistText": "Como tocar guitarra"
@@ -123,7 +123,7 @@
         {
             "id": "00000015",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "responseText": "Com ciumes!",
             "twistText": "Panda dando à luz"
@@ -131,7 +131,7 @@
         {
             "id": "00000016",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "responseText": "Ele é muito intimidante.",
             "twistText": "um espantalho"
@@ -139,7 +139,7 @@
         {
             "id": "00000017",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "responseText": "Ela está acesa!",
             "twistText": "Joana D'Arc"
@@ -147,7 +147,7 @@
         {
             "id": "00000018",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "responseText": "Eu não apóio terroristas.",
             "twistText": "Um novo tipo de smartwatch"
@@ -155,7 +155,7 @@
         {
             "id": "00000019",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "responseText": "Eles são superestimados.",
             "twistText": "Eu preciso de um novo coração"
@@ -163,7 +163,7 @@
         {
             "id": "00000020",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "responseText": "Nosso servidor era um idiota.",
             "twistText": "Sorveteria self-service"
@@ -171,7 +171,7 @@
         {
             "id": "00000021",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "responseText": "Todo mundo foi rude.",
             "twistText": "Missouri"
@@ -179,7 +179,7 @@
         {
             "id": "00000022",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "responseText": "Eu não ligo para o gosto.",
             "twistText": "Plástico bolha"
@@ -187,7 +187,7 @@
         {
             "id": "00000023",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "responseText": "É super plano.",
             "twistText": "Mesa"
@@ -195,7 +195,7 @@
         {
             "id": "00000024",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "responseText": "Bocejar.",
             "twistText": "Assaltante de banco à solta"
@@ -203,7 +203,7 @@
         {
             "id": "00000025",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "responseText": "O governo está mentindo para você.",
             "twistText": "18 Food Hacks"
@@ -211,7 +211,7 @@
         {
             "id": "00000026",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "responseText": "O banheiro",
             "twistText": "Onde você chora mais?"
@@ -219,7 +219,7 @@
         {
             "id": "00000027",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "responseText": "Muito terrível.",
             "twistText": "Como você está no seu trabalho?"
@@ -227,7 +227,7 @@
         {
             "id": "00000028",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Estamos noivos!"
@@ -235,7 +235,7 @@
         {
             "id": "00000029",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Brunch com minha melhor amiga!"
@@ -243,7 +243,7 @@
         {
             "id": "00000030",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Ele roubou minha carteira."
@@ -251,7 +251,7 @@
         {
             "id": "00000031",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Olha como a minha vida é interessante!"
@@ -259,7 +259,7 @@
         {
             "id": "00000032",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "É melhor obter muitos gostos!"
@@ -267,7 +267,7 @@
         {
             "id": "00000033",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "O sushi mais fresco da cidade."
@@ -275,7 +275,7 @@
         {
             "id": "00000034",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Selfie!"
@@ -283,7 +283,7 @@
         {
             "id": "00000035",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Este Ecco the Dolphin VR é incrível!"
@@ -291,7 +291,7 @@
         {
             "id": "00000036",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "responseText": "",
             "twistText": "Vida de férias! #ImSoLonely"

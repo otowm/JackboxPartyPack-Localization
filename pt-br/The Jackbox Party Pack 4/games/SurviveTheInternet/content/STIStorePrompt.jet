@@ -5,19 +5,19 @@
             "decoys": [
                 {
                     "text": "Suave. Grande. Bouncy.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -33,19 +33,19 @@
             "decoys": [
                 {
                     "text": "Estava cheio de grandes amigos.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -61,19 +61,19 @@
             "decoys": [
                 {
                     "text": "É macio e durável.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -89,19 +89,19 @@
             "decoys": [
                 {
                     "text": "É muito irregular. Eu preciso de um novo.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -117,19 +117,19 @@
             "decoys": [
                 {
                     "text": "Encantador, pequeno e agradável.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -145,19 +145,19 @@
             "decoys": [
                 {
                     "text": "Foi tão bom que me fez chorar.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -173,19 +173,19 @@
             "decoys": [
                 {
                     "text": "Velho, aconchegante e bonito.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -201,19 +201,19 @@
             "decoys": [
                 {
                     "text": "É muito grande e bonito.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -229,19 +229,19 @@
             "decoys": [
                 {
                     "text": "É muito poderoso!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -257,19 +257,19 @@
             "decoys": [
                 {
                     "text": "Foi muito alto.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -285,19 +285,19 @@
             "decoys": [
                 {
                     "text": "Tinha um gorila feliz!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -313,19 +313,19 @@
             "decoys": [
                 {
                     "text": "A maioria é ótima, mas alguns são terríveis.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -341,19 +341,19 @@
             "decoys": [
                 {
                     "text": "Foi muito bem escrito. Muito atraente.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -369,19 +369,19 @@
             "decoys": [
                 {
                     "text": "Eu só como porque sei que é bom para mim.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -397,19 +397,19 @@
             "decoys": [
                 {
                     "text": "Eles me fazem sentir como uma criança.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -425,19 +425,19 @@
             "decoys": [
                 {
                     "text": "Isso me fez parecer super elegante!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -453,19 +453,19 @@
             "decoys": [
                 {
                     "text": "Foi um ótimo momento com a família!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -481,19 +481,19 @@
             "decoys": [
                 {
                     "text": "Gostou, mas infelizmente o gato o picou.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -509,19 +509,19 @@
             "decoys": [
                 {
                     "text": "Tinha muito mistério e suspense. Eu não consegui parar!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -537,19 +537,19 @@
             "decoys": [
                 {
                     "text": "Ele faz tudo que eu preciso!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -565,19 +565,19 @@
             "decoys": [
                 {
                     "text": "É meio fraco. Eu queria que fosse mais forte!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -593,19 +593,19 @@
             "decoys": [
                 {
                     "text": "É pequeno, mas poderoso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -621,19 +621,19 @@
             "decoys": [
                 {
                     "text": "Isso me deixa muito hiperativo!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -649,19 +649,19 @@
             "decoys": [
                 {
                     "text": "Verde, saudável e delicioso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -677,19 +677,19 @@
             "decoys": [
                 {
                     "text": "Carlos me trouxe lá rápido!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -709,15 +709,15 @@
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -733,19 +733,19 @@
             "decoys": [
                 {
                     "text": "É um pouco amargo demais para mim.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -761,19 +761,19 @@
             "decoys": [
                 {
                     "text": "Foi terrível. Havia papel higiênico por toda parte.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -789,19 +789,19 @@
             "decoys": [
                 {
                     "text": "Eles sempre se enredam e isso me incomoda.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -817,19 +817,19 @@
             "decoys": [
                 {
                     "text": "Tudo bem. Eu já tive pior.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -845,19 +845,19 @@
             "decoys": [
                 {
                     "text": "Meh. Os ovos estavam um pouco escorrendo.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -873,19 +873,19 @@
             "decoys": [
                 {
                     "text": "É enorme e cheio de ótimos passeios.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -901,19 +901,19 @@
             "decoys": [
                 {
                     "text": "Eles são muito flexíveis e confortáveis.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -929,19 +929,19 @@
             "decoys": [
                 {
                     "text": "Tudo bem. Não seca muito rapidamente.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -961,15 +961,15 @@
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -985,19 +985,19 @@
             "decoys": [
                 {
                     "text": "Não é ruim, mas as portas ficam muito presas.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1013,19 +1013,19 @@
             "decoys": [
                 {
                     "text": "É sempre uma delícia!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1041,19 +1041,19 @@
             "decoys": [
                 {
                     "text": "Sempre me faz cocô.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1069,19 +1069,19 @@
             "decoys": [
                 {
                     "text": "É longo e enfadonho.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1097,19 +1097,19 @@
             "decoys": [
                 {
                     "text": "Totalmente inútil.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1125,19 +1125,19 @@
             "decoys": [
                 {
                     "text": "É muito amargo para mim.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1153,19 +1153,19 @@
             "decoys": [
                 {
                     "text": "Nunca use! NUNCA!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1181,19 +1181,19 @@
             "decoys": [
                 {
                     "text": "Caro, mas vale a pena.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1209,19 +1209,19 @@
             "decoys": [
                 {
                     "text": "Eles são os melhores.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1237,19 +1237,19 @@
             "decoys": [
                 {
                     "text": "É grande e luxuoso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1265,19 +1265,19 @@
             "decoys": [
                 {
                     "text": "Estava molhado e desleixado.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1293,19 +1293,19 @@
             "decoys": [
                 {
                     "text": "É velho e macio.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1321,19 +1321,19 @@
             "decoys": [
                 {
                     "text": "Eles são sujos e vis.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1349,19 +1349,19 @@
             "decoys": [
                 {
                     "text": "Tem tudo!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1377,19 +1377,19 @@
             "decoys": [
                 {
                     "text": "Tinha muitas decorações elegantes!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1405,19 +1405,19 @@
             "decoys": [
                 {
                     "text": "Era enorme e cheio de atletas.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1433,19 +1433,19 @@
             "decoys": [
                 {
                     "text": "Está cheio de gente boa.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1461,19 +1461,19 @@
             "decoys": [
                 {
                     "text": "Curto, divertido, exaustivo",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1489,19 +1489,19 @@
             "decoys": [
                 {
                     "text": "É difícil de montar, mas parece legal!",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1517,19 +1517,19 @@
             "decoys": [
                 {
                     "text": "Sempre acerta o alvo.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1545,19 +1545,19 @@
             "decoys": [
                 {
                     "text": "Era pequeno e cheio de roupas.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1573,19 +1573,19 @@
             "decoys": [
                 {
                     "text": "É meio confuso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "É meio confuso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "É meio confuso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "É meio confuso.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {
@@ -1601,19 +1601,19 @@
             "decoys": [
                 {
                     "text": "Havia muitos lanches. Foi divertido.",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 },
                 {
                     "text": "",
-                    "type": "Negativo"
+                    "type": "Negative"
                 }
             ],
             "prefix": {

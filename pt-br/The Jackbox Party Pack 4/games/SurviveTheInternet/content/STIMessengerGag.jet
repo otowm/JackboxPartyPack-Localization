@@ -7,19 +7,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Por favor, pegue alguns lenços laváveis para o papai.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu não posso falar agora.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Bem, da última vez você esqueceu e ele teve uma erupção na bunda.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -31,25 +31,25 @@
                 {
                     "from": "Gene",
                     "text": "Estou adorando meu novo corte de cabelo!",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "impressionante :)",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Obrigado novamente. Vou te dar um tmrw.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "k",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -61,25 +61,25 @@
                 {
                     "from": "Gene",
                     "text": "O que você vai vestir no casamento?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Não sei. Provavelmente um terno e Chuck Taylors.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Um terno com tênis ?!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Gene",
                     "text": "Você é a pessoa mais legal que conheço.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -91,25 +91,25 @@
                 {
                     "from": "Dee23",
                     "text": "Olá gracinha ;)",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Oi, eu conheço você?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Dee23",
                     "text": "dê uma olhada em lonelyvideogamesgirls.biz",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu irei mais tarde. Obrigado pelo convite, senhora!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -121,25 +121,25 @@
                 {
                     "from": "Mamãe",
                     "text": "LucyLovesYarn42",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "O que você está fazendo, mãe?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "LucyLovesYarn42",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "NÃO é para onde vai sua senha, mãe!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -151,19 +151,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Quando você tiver um segundo, pode entrar aqui?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Não vou checar papai por carrapatos de novo.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Só preciso de ajuda com as coxas!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -175,25 +175,25 @@
                 {
                     "from": "Gene",
                     "text": "Você procurou?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Sim.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "E?!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Tom Petty não tem um filho chamado Manny.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -205,25 +205,25 @@
                 {
                     "from": "Todd",
                     "text": "Como foi ontem?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Bom! Fiz muita terapia de varejo.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Comprou muito, hein?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Não, mas desabafei sobre seu pai para o balconista.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -235,25 +235,25 @@
                 {
                     "from": "Todd",
                     "text": "Ouvi dizer que vocês compraram um colchão novo.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Pai",
                     "text": "Sim. Grande erro.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Por que isso?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Pai",
                     "text": "Fui para a loja de colchões sonolenta e gasta demais.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -265,25 +265,25 @@
                 {
                     "from": "Gene",
                     "text": "Você está livre amanhã à noite?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Isso! Estás bem?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Eu tenho um show de improvisação!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Oh espere… Estou ocupado. Sim, definitivamente ocupado.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -295,25 +295,25 @@
                 {
                     "from": "Gene",
                     "text": "Desculpe pelo fantasma ontem à noite na festa.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Isso está ok.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu só queria que você não tivesse cortado meu lençol",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Gene",
                     "text": ":(",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -325,25 +325,25 @@
                 {
                     "from": "Gene",
                     "text": "Funcionou?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Não. Nem darkweb.org ou darkweb.gov",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Como acessamos então ?!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu não faço ideia.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -355,25 +355,25 @@
                 {
                     "from": "Pai",
                     "text": "Ei filho.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Oi pai.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Pai",
                     "text": "Ok, boa conversa.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Pai",
                     "text": "Tenho que correr.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -385,25 +385,25 @@
                 {
                     "from": "Mamãe",
                     "text": "Você ainda está jogando esse jogo?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Não é apenas um “jogo” mãe.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "ESTÁ. MINHA. VIDA.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Qualquer que seja. Lembre-se de levar papel higiênico para casa.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -415,25 +415,25 @@
                 {
                     "from": "Gene",
                     "text": "Você costuma jogar algum outro jogo?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Ocasionalmente",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Ocassianalmente",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "2"
                 },
                 {
                     "from": "Todd",
                     "text": "As vezes.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -445,25 +445,25 @@
                 {
                     "from": "Mamãe",
                     "text": "Espero que você esteja tendo um bom dia, querida. Com amor, mãe.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Obrigado, mãe, mas você não precisa assinar seu nome.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu sei que você está digitando para mim.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Oh, eu vejo. Com amor, mãe.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -475,25 +475,25 @@
                 {
                     "from": "Mamãe",
                     "text": "Eu finalmente descobri os emojis!",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Mamãe",
                     "text": "&: X =: =",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Isso não funcionou.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Atirar! Oh, eu descobri! &: X =: =",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -505,19 +505,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Seu computador foi hackeado?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Não por que?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Eu vi você postar um comentário legal no meu mural.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -529,25 +529,25 @@
                 {
                     "from": "Gene",
                     "text": "Sim, às vezes Todd pode ser realmente irritante.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Uh...",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Oh hahaha jk! Apenas fazendo um pouco de diversão!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Gene",
                     "text": "Definitivamente, não estou conversando com Susan agora!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -559,25 +559,25 @@
                 {
                     "from": "Gene",
                     "text": "Ei!",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Gene",
                     "text": "Ei!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Estás bem?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "2"
                 },
                 {
                     "from": "Gene",
                     "text": "nada",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -589,25 +589,25 @@
                 {
                     "from": "Pai",
                     "text": "Estou orgulhoso de você, filho.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "...Mamãe?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Isso é você?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Pai",
                     "text": "Ele pode não dizer isso, mas ele está sendo sincero!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -619,25 +619,25 @@
                 {
                     "from": "Gene",
                     "text": "Sarah me perguntou se você mora na academia!",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Oh sim?!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu acho que estou ficando rasgado!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Gene",
                     "text": "Ela perguntou b / c ela achava que você era um sem-teto. :(",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -649,25 +649,25 @@
                 {
                     "from": "Todd",
                     "text": "Como foi a venda de garagem?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Bom! Vendemos todas as coisas que você deixou aqui.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "O que?!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Brincando! Apenas suas roupas e DVDs.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -679,25 +679,25 @@
                 {
                     "from": "Dee23",
                     "text": "o que você está fazendo l8er? lonelyvideogamegirls.biz",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "uh, ei. Estou pensando em ler Thoreau",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Dee23",
                     "text": "soa quente. Quero saber de tudo",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Bem, ele se muda para esta lagoa e decide plantar feijão ...",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -709,25 +709,25 @@
                 {
                     "from": "Gene",
                     "text": "Vamos esta noite?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "eu te disse não",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Vamos lá!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Eu não posso fazer cosplay de Angel a menos que você seja Buffy",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -739,19 +739,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Achei que você estava preso na Alemanha.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "O que? Não. Eu estive aqui o tempo todo.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Então, para quem eu enviei $ 10.000 ?!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -763,19 +763,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Querido diário, tive aquele sonho com Antonio novamente.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Mãe, este não é o seu diário!",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Ele me encontrou na cozinha, encharcado pela chuva.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -787,25 +787,25 @@
                 {
                     "from": "Liz",
                     "text": "Agora aperte a chave hexagonal e seu futon estará completo.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Obrigado! Estou feliz que sua empresa faça isso.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "E desculpe por chorar quando não consegui encontrar uma chave inglesa.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Liz",
                     "text": "Acontece o tempo todo.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -817,19 +817,19 @@
                 {
                     "from": "Mamãe",
                     "text": "Você excluiu WordPuttz do meu telefone?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Ninguém joga mais isso",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Eu não me importo! Eu amo isso!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -841,19 +841,19 @@
                 {
                     "from": "Gene",
                     "text": "Você está tendo um dia difícil também?",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Sim. A noite passada foi uma loucura.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Por que bebemos tantos Mr. Pibbs ?!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -865,25 +865,25 @@
                 {
                     "from": "Walt",
                     "text": "Ei, Todder!",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Oi tio Walter",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Walt",
                     "text": "Quase digitei TODDLER :)",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "... isso nunca não é engraçado.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -895,25 +895,25 @@
                 {
                     "from": "Dee23",
                     "text": "Olá gracinha! Estás bem? Lonelygamegirls.biz",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Fazendo gaspacho.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Dee23",
                     "text": "Soa quente!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Não, é gaspacho. Está frio.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -924,20 +924,20 @@
             "messages": [
                 {
                     "from": "Mamãe",
-                    "text": "Eu tenho uma pergunta sobre computador.",
-                    "behavior": "sobre",
+                    "text": "Eu tenho uma pergunta sobre o computador.",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Desculpe, estou ocupado. Talvez mais tarde?",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Ok, espero que o fogo apague.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -949,25 +949,25 @@
                 {
                     "from": "Mamãe",
                     "text": "Seu primo está aqui.",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Quando você está vindo?",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Todd",
                     "text": "Depois do jogo.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Mamãe",
                     "text": "Por favor, despacha-te. Ele me assusta.",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 }
             ]
@@ -979,25 +979,25 @@
                 {
                     "from": "Gene",
                     "text": "Tive aquele sonho de novo ...",
-                    "behavior": "sobre",
+                    "behavior": "on",
                     "timeTilNextMessage": "0,5"
                 },
                 {
                     "from": "Todd",
                     "text": "Achei que tivéssemos concordado em não falar sobre isso.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "1"
                 },
                 {
                     "from": "Gene",
                     "text": "Isso tem que significar alguma coisa!",
-                    "behavior": "receber",
+                    "behavior": "receive",
                     "timeTilNextMessage": "3"
                 },
                 {
                     "from": "Todd",
                     "text": "Eu tenho que ir.",
-                    "behavior": "enviar",
+                    "behavior": "send",
                     "timeTilNextMessage": "3"
                 }
             ]
