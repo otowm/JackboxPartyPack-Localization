@@ -4,210 +4,210 @@
         {
             "id": "News000",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Homem da área deixa cair sua casquinha de sorvete"
         },
         {
             "id": "News001",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "O pastor da igreja se aposenta"
         },
         {
             "id": "News002",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Relatório: A maioria dos cães são bons meninos"
         },
         {
             "id": "News003",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Novo parque é inaugurado no centro"
         },
         {
             "id": "News004",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "VFW para adicionar noite adicional de bingo"
         },
         {
             "id": "News005",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Carnaval vem à cidade"
         },
         {
             "id": "News006",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Cozinha de sopa local quebra recorde"
         },
         {
             "id": "News007",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Grande tempestade prevista para este fim de semana"
         },
         {
             "id": "News008",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Feira do condado contará com duas atrações principais"
         },
         {
             "id": "News009",
             "applicableThemes": [
-                "Notícias"
+                "News"
             ],
             "text": "Equipe HS Boys vence estadual"
         },
         {
             "id": "Video000",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Trombone Solo"
         },
         {
             "id": "Video001",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Meu bebe lindo"
         },
         {
             "id": "Video002",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Meu sobrinho apaga suas velas de aniversário"
         },
         {
             "id": "Video003",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Manhã de Natal com o Fam!"
         },
         {
             "id": "Video004",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Recital de piano da minha filha "
         },
         {
             "id": "Video005",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Truque louco de Hacky Sack"
         },
         {
             "id": "Video006",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Sermão da Igreja Hilariante"
         },
         {
             "id": "Video007",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Como fazer os famosos muffins da minha avó"
         },
         {
             "id": "Video008",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Paródia do estilo Gangnam"
         },
         {
             "id": "Video009",
             "applicableThemes": [
-                "Vídeo"
+                "Video"
             ],
             "text": "Compilação de truques de mágica"
         },
         {
             "id": "Store000",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "6 'pente de plástico"
         },
         {
             "id": "Store001",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Tênis branco"
         },
         {
             "id": "Store002",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Bíblia King James"
         },
         {
             "id": "Store003",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "12 pacotes de meias de tubo "
         },
         {
             "id": "Store004",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Shorts jeans"
         },
         {
             "id": "Store005",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Cesta de vime rústica"
         },
         {
             "id": "Store006",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "CD com os melhores sucessos do coro de câmara"
         },
         {
             "id": "Store007",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Pacote Jumbo de biscoitos salgados"
         },
         {
             "id": "Store008",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Cartaz de Faith Hill"
         },
         {
             "id": "Store009",
             "applicableThemes": [
-                "Loja"
+                "Store"
             ],
             "text": "Fanny Pack"
         },
@@ -284,427 +284,427 @@
         {
             "id": "Chirp000",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#Inapropriado"
         },
         {
             "id": "Chirp001",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#NotWhatTheLordSaid"
         },
         {
             "id": "Chirp002",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#ExcuseMeMister"
         },
         {
             "id": "Chirp003",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#MowingThoughts"
         },
         {
             "id": "Chirp004",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#MyBabysFirstWords"
         },
         {
             "id": "Chirp005",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#Cantada"
         },
         {
             "id": "Chirp006",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#OverheardInTheAirport"
         },
         {
             "id": "Chirp007",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#PutItOnMyTombstone"
         },
         {
             "id": "Chirp008",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#RRatedMovies"
         },
         {
             "id": "Chirp009",
             "applicableThemes": [
-                "Chilro"
+                "Chirp"
             ],
             "text": "#ShreddedWheat"
         },
         {
             "id": "CrowdFund000",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Construindo um Novo Centro Juvenil"
         },
         {
             "id": "CrowdFund001",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Clean Comedy Club"
         },
         {
             "id": "CrowdFund002",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Gravando um álbum soul"
         },
         {
             "id": "CrowdFund003",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Torre de CD extra alta"
         },
         {
             "id": "CrowdFund004",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Viagem missionária ao Haiti "
         },
         {
             "id": "CrowdFund005",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Luvas Extra-Grossas"
         },
         {
             "id": "CrowdFund006",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Uma nova microcervejaria"
         },
         {
             "id": "CrowdFund007",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Podcast sobre pinguins"
         },
         {
             "id": "CrowdFund008",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Stage My Musicial"
         },
         {
             "id": "CrowdFund009",
             "applicableThemes": [
-                "Vaquinha"
+                "CrowdFund"
             ],
             "text": "Um novo tipo de biscoito"
         },
         {
             "id": "CheckIn000",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "Igreja"
         },
         {
             "id": "CheckIn001",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "Comunidade de aposentados"
         },
         {
             "id": "CheckIn002",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "O DMV"
         },
         {
             "id": "CheckIn003",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "Cozinha de sopa"
         },
         {
             "id": "CheckIn004",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "O Museu de História Natural "
         },
         {
             "id": "CheckIn005",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "A torre Eiffel"
         },
         {
             "id": "CheckIn006",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "O grande Canyon"
         },
         {
             "id": "CheckIn007",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "A estátua da Liberdade"
         },
         {
             "id": "CheckIn008",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "Clube de Cavalheiros"
         },
         {
             "id": "CheckIn009",
             "applicableThemes": [
-                "Check-in"
+                "CheckIn"
             ],
             "text": "Zoológico"
         },
         {
-            "id": "Recomendar000",
+            "id": "Recommend000",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Satanás"
         },
         {
-            "id": "Recomendar001",
+            "id": "Recommend001",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Jon Cryer"
         },
         {
-            "id": "Recomendar002",
+            "id": "Recommend002",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Darth Vader"
         },
         {
-            "id": "Recomendar003",
+            "id": "Recommend003",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Tartaruga da Entourage"
         },
         {
-            "id": "Recomendar004",
+            "id": "Recommend004",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Gary Busey"
         },
         {
-            "id": "Recomendar005",
+            "id": "Recommend005",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Voldemort"
         },
         {
-            "id": "Recomendar006",
+            "id": "Recommend006",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Harry Connick Jr."
         },
         {
-            "id": "Recomendar007",
+            "id": "Recommend007",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Doutor Oz"
         },
         {
-            "id": "Recomendar008",
+            "id": "Recommend008",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Guy Fieri"
         },
         {
-            "id": "Recomendar009",
+            "id": "Recommend009",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Pizza Rat"
         },
         {
-            "id": "Recomendar 010",
+            "id": "Recommend 010",
             "applicableThemes": [
-                "Recomendar"
+                "Recommend"
             ],
             "text": "Mamãe chewbacca"
         },
         {
             "id": "Forum000",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Qual é o seu conselho sobre namoro? "
         },
         {
             "id": "Forum001",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "O que vocês acham, europeus?"
         },
         {
             "id": "Forum002",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Como você está se sentindo hoje?"
         },
         {
             "id": "Forum003",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Qual foi a última coisa que você disse na confissão?"
         },
         {
             "id": "Forum004",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Qual é a sua senha de email?"
         },
         {
             "id": "Forum005",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Por qual frase inspiradora você vive?"
         },
         {
             "id": "Forum006",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "O que sua tatuagem diz?"
         },
         {
             "id": "Forum007",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Qual é o lema da sua cidade natal?"
         },
         {
             "id": "Forum008",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Se você pudesse dizer apenas uma coisa, o que seria? "
         },
         {
             "id": "Forum009",
             "applicableThemes": [
-                "Fórum"
+                "Forum"
             ],
             "text": "Que conselho seu avô te deu?"
         },
         {
             "id": "Photo000",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Eu amo minha vida!"
         },
         {
             "id": "Photo001",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Terça-feira típica."
         },
         {
             "id": "Photo002",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Meu escritório por hoje."
         },
         {
             "id": "Photo003",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Muito ciumento?"
         },
         {
             "id": "Photo004",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Minha nova partida do Tinder."
         },
         {
             "id": "Photo005",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Meu humor atual."
         },
         {
             "id": "Photo006",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Esta é a foto de referência para minha nova tatuagem."
         },
         {
             "id": "Photo007",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "Por favor me ajude."
         },
         {
             "id": "Photo008",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "É um lindo dia para um casamento."
         },
         {
             "id": "Photo009",
             "applicableThemes": [
-                "foto"
+                "Photo"
             ],
             "text": "E eu peguei a estrada menos percorrida."
         }

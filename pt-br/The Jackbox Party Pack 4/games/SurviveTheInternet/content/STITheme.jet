@@ -1,10 +1,10 @@
 {
     "content": [
         {
-            "id": "Vídeo",
-            "name": "Vídeo",
-            "url": "/ videos",
-            "promptContentType": "STIPrompt",
+            "id":"Video",
+            "name":"Video",
+            "url":"/videos",
+            "promptContentType":"STIPrompt",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira um título de vídeo",
             "revealSpec": {
@@ -19,14 +19,14 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     },
@@ -71,11 +71,11 @@
             }
         },
         {
-            "id": "Chilro",
-            "name": "Chilro",
-            "url": "/mídia social",
-            "promptContentType": "STIPrompt",
-            "bgFrame": "Rede social",
+            "id":"Chirp",
+            "name":"Chirp",
+            "url":"/rede-social",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"SocialNetwork",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira uma hashtag",
             "revealSpec": {
@@ -90,14 +90,14 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist.color",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "prefix": "#",
                         "censorable": true,
@@ -139,11 +139,11 @@
             }
         },
         {
-            "id": "Notícias",
-            "name": "Notícias",
-            "url": "/notícias",
-            "promptContentType": "STIPrompt",
-            "bgFrame": "NewsOutlet",
+            "id":"News",
+            "name":"News",
+            "url":"/noticias",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"NewsOutlet",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira uma manchete de notícias",
             "prefix": null,
@@ -159,20 +159,20 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     },
                     {
                         "path": "container.dateAndTime",
-                        "value": "CurrentDate (MA d, yyyy, th12: tm AMPM)"
+                        "value": "CurrentDate(MA d, yyyy, th12:tm AMPM)"
                     }
                 ],
                 "frames": [
@@ -202,11 +202,11 @@
             }
         },
         {
-            "id": "FriendFeed",
-            "name": "FriendFeed",
-            "url": "/rede social",
-            "promptContentType": "STIPrompt",
-            "bgFrame": "Rede social",
+            "id":"FriendFeed",
+            "name":"FriendFeed",
+            "url":"/rede-social",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"SocialNetwork",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira um comentário",
             "prefix": null,
@@ -222,20 +222,20 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     },
                     {
                         "path": "container.dateAndTime",
-                        "value": "CurrentDate (MA d, yyyy, th12: tm AMPM)"
+                        "value": "CurrentDate(MA d, yyyy, th12:tm AMPM)"
                     }
                 ],
                 "frames": [
@@ -261,11 +261,11 @@
             }
         },
         {
-            "id": "Vaquinha",
-            "name": "Vaquinha",
-            "url": "/financiamento colaborativo",
-            "promptContentType": "STIPrompt",
-            "bgFrame": "Financiamento colaborativo",
+            "id":"CrowdFund",
+            "name":"CrowdFund",
+            "url":"/vaquinha",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"Crowdfunding",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira um título de arrecadação de fundos",
             "prefix": null,
@@ -281,16 +281,16 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 3,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
@@ -333,11 +333,11 @@
             }
         },
         {
-            "id": "Loja",
-            "name": "Loja",
-            "url": "/loja",
-            "promptContentType": "STIStorePrompt",
-            "bgFrame": "Loja online",
+            "id":"Store",
+            "name":"Store",
+            "url":"/loja",
+            "promptContentType":"STIStorePrompt",
+            "bgFrame":"OnlineStore",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira um nome de produto",
             "prefix": null,
@@ -353,14 +353,14 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     }
@@ -396,11 +396,11 @@
             }
         },
         {
-            "id": "Fórum",
-            "name": "Fórum",
-            "url": "/fórum",
-            "promptContentType": "STIPrompt",
-            "bgFrame": "WebForum",
+            "id":"Forum",
+            "name":"Forum",
+            "url":"/forum",
+            "promptContentType":"STIPrompt",
+            "bgFrame":"WebForum",
             "responsePlaceholder": null,
             "twistPlaceholder": "introduzir uma pergunta",
             "prefix": null,
@@ -416,14 +416,14 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     },
@@ -467,11 +467,11 @@
             }
         },
         {
-            "id": "Check-in",
-            "name": "Check-in",
-            "url": "/check-in",
-            "promptContentType": "STIStorePrompt",
-            "bgFrame": "CheckInSite",
+            "id":"CheckIn",
+            "name":"CheckIn",
+            "url":"/check-in",
+            "promptContentType":"STIStorePrompt",
+            "bgFrame":"CheckInSite",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira um local",
             "prefix": null,
@@ -487,20 +487,20 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.twist",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 2,
                         "censorable": true
                     },
                     {
                         "path": "container.dateAndTime.tf",
-                        "value": "CurrentDate (MA d, aaaa em th12: tm AMPM)"
+                        "value": "CurrentDate(MA d, yyyy as th12:tm AMPM)"
                     }
                 ],
                 "frames": [
@@ -530,11 +530,11 @@
             }
         },
         {
-            "id": "Recomendar",
-            "name": "Recomendar",
-            "url": "/ job-network",
-            "promptContentType": "STIJobPrompt",
-            "bgFrame": "CheckInSite",
+            "id":"Recommend",
+            "name":"Recommend",
+            "url":"/trabalhos",
+            "promptContentType":"STIJobPrompt",
+            "bgFrame":"CheckInSite",
             "responsePlaceholder": null,
             "twistPlaceholder": "insira o nome de uma pessoa / personagem",
             "prefix": null,
@@ -550,14 +550,14 @@
                     },
                     {
                         "path": "container.comment",
-                        "value": "Resposta",
+                        "value": "Response",
                         "numLines": 2,
-                        "balance": "principal",
+                        "balance": "top",
                         "censorable": true
                     },
                     {
                         "path": "container.color",
-                        "value": "Torção",
+                        "value": "Twist",
                         "numLines": 1,
                         "maxSize": 80,
                         "censorable": true
